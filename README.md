@@ -37,9 +37,12 @@ This README provides a detailed guide on deployment, interaction, and usage of t
 4. Configure the network:
 - Set the network variable in interact.js to either 'ganache' or 'sepolia' depending on your preferred network.
 
-5. Start your Ganache instance or connect to Sepolia via Infura.
+5. Start your Ganache instance or connect to Sepolia via Infura:
 
-6. Run interact.js to interact with the smart contract:
+   ![Ganache](./img/ganache.jpg)
+   ![Sepolia](./img/sepolia.jpg)
+
+7. Run interact.js to interact with the smart contract:
 
    ```bash
    node interact.js
