@@ -109,7 +109,7 @@ contract EtherReceiver {
         payable(owner).transfer(address(this).balance);
     }
 }
-
+```
 ---
 
 ```markdown
